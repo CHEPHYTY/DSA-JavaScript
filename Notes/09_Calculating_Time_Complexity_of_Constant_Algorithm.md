@@ -10,4 +10,4 @@ const sum = (x,y)=> {
 
 #### $Time Complexity = O(1)$
 
-<img src ="../assets/time_complexity_constant.png" alt = "time complexity">
+

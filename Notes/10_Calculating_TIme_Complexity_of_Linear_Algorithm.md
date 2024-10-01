@@ -22,4 +22,3 @@
 
 #### $Time Complexity = O(n)$
 
-<img src ="../assets/time_complexity_linear.png" alt = "linear time complexity">

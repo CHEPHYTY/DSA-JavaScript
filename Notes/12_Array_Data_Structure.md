@@ -2,7 +2,6 @@
 
 ## What is an Array ?
 
-<img src ="../assets/chocolate.png" alt = "chocolate">
 
 1. It's a collection(box) of chocolates.
 2. All chocolate holding partitions are adjacent or contiguous.

@@ -40,5 +40,3 @@ End of outer loop
 - $T = 9n^2+11n+5$
 
 #### $Time Complexity = O(n^2)$
-
-<img src ="../assets/time_complexity_polynomial.png" alt = " ">
